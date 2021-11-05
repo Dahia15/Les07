@@ -6,4 +6,4 @@ Zet hieronder de links naar jouw game review.
 
 [Review 2](Review2.md)
 
-[review 3](Review3.md)
+[Review 3](review3.md)
